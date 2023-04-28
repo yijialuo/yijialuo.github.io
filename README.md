@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head> 
 <meta charset="utf-8"> 
 <title>菜鸟教程(runoob.com)</title> 
@@ -28,4 +27,4 @@ function showPosition(position)
 }
 </script>
 </body>
-</html>
+
